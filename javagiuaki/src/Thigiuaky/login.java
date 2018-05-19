@@ -25,7 +25,7 @@ import java.net.URL;
 
 public class login {
 
-	public static final String APP_TITLE = "Xuan_Vu";
+	public static final String APP_TITLE = "tien";
 	private FileSystemView fileSystemView;
 	@SuppressWarnings("unused")
 	private File currentFile;
